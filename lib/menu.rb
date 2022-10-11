@@ -10,4 +10,6 @@ class Menu
     def add(name, price)
         @menu_list[name] = price
     end
+
+   
 end
